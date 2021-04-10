@@ -16,4 +16,7 @@ Using image data we can improve the model and create and ensemble of both
 Using product reviews as well. They too may provide some clues
 
 <h2> For visualization </h2> 
-we can have a wordcloud, confusion matrix, barplots indicating most used words.
+we can have a wordcloud, barplots indicating most used words.
+
+<h2> Evaluation </h2>
+I have used the confusion matrix for it.
